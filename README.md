@@ -6,9 +6,10 @@
 
 ### Join me on:
 <detail>
-[<img align="left" alt="Enockham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Enockham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Enockham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="Enockham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Enockham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Enockham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <a href=''><img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />Linkedin</a>
 </detail>
 <br />
 
@@ -18,7 +19,7 @@
 [instagram]: https://www.instagram.com/enockhamuli/
 Connect with me:
 
-codeSTACKr.com codeSTACKr | YouTube codeSTACKr | Twitter codeSTACKr | LinkedIn codeSTACKr | Instagram
+
 
 
 
