@@ -5,19 +5,13 @@
 
 
 ### Join me on:
-<detail>
-[<img align="center" alt="Enockham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Enockham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="Enockham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-  <a href=''><img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />Linkedin</a>
-</detail>
-<br />
 
 
-[linkedin]:https://www.linkedin.cn/in/enock-hamuli-156a251a3/
-[twitter]: https://twitter.com/enockhamuli
-[instagram]: https://www.instagram.com/enockhamuli/
-Connect with me:
+<a href='https://www.linkedin.cn/in/enock-hamuli-156a251a3/'><img align="center" alt="Enockham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin</a>
+ <a href='https://twitter.com/enockhamuli'><img align="center" alt="Enockham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />Twitter</a>
+ <a href='https://www.instagram.com/enockhamuli/'><img align="center" alt="Enockham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram</a>
+
+
 
 
 
