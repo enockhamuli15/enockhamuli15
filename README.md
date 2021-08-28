@@ -16,5 +16,9 @@
 [linkedin]:https://www.linkedin.cn/in/enock-hamuli-156a251a3/
 [twitter]: https://twitter.com/enockhamuli
 [instagram]: https://www.instagram.com/enockhamuli/
+Connect with me:
+
+codeSTACKr.com codeSTACKr | YouTube codeSTACKr | Twitter codeSTACKr | LinkedIn codeSTACKr | Instagram
+
 
 
