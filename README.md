@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Enock Hamuli
 
 <p align='center'>
- <samp>Since artists love what they do, I'm a Full-Stack Python Django developer who loves to combine the passion for programming with the needs of others. <br/>
+ <samp>Since artists love what they do, I'm a Full Stack Python Django developer who loves to combine the passion for programming with the needs of others. <br/>
 Let's create some codes to provoke smiles 😁 
 
 #### Join me on:
