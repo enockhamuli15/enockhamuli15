@@ -14,7 +14,7 @@ Let's create some codes to provoke smiles 😁
 </p>
 
 
-### Languages and db:
+### Technologies in use:
 
 <img align="left" alt="django" width="26px" src="https://mineart.in/storage/cover/2020/08/04/dnUoD1wj34tyKymjrb85FCYQ1YyWznWXs2Qj4hWc.jpg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />
